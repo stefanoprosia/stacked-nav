@@ -1,5 +1,5 @@
 html {
-  box-sizing:border-box;
+  box-sizing: border-box;
   font-family: "Dosis", sans-serif;
   margin: 0;
 }
@@ -62,7 +62,7 @@ nav a:hover {
 
 .info-boxes a:hover {
   color: #fff;
-  background-color: #7a5537
+  background-color: #7a5537;
 }
 
 body {
